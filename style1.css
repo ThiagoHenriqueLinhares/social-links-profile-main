@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    height: 670px;
+    width: 430px;
+}
+
+.fundo {
+    width: 330px;
+    margin-left: 50px;
+}
